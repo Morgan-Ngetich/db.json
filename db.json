@@ -1,0 +1,452 @@
+{
+  "braiders": [
+    {
+      "id": 1,
+      "name": "Amanda Styles",
+      "servicename": "Amanda's Salon",
+      "location": "New York, NY",
+      "about": "Amanda has been braiding for over 10 years, specializing in intricate braiding patterns and vibrant colors.",
+      "email": "amanda.styles@example.com",
+      "phone_number": "+1-555-1234",
+      "role": "braider",
+      "images": [
+        "https://picsum.photos/300/200?random=1"
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/400/300?random=1",
+          "service": "Box Braids",
+          "serviceDescription": "Classic box braids for a stylish and low-maintenance look.",
+          "likes": 128
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/500/400?random=1",
+          "service": "Cornrows",
+          "serviceDescription": "Elegant cornrows, perfect for any occasion.",
+          "likes": 85
+        },
+        {
+          "id": 3,
+          "url": "https://picsum.photos/600/500?random=1",
+          "service": "Vibrant Colors",
+          "serviceDescription": "Add some color and personality to your braids.",
+          "likes": 96
+        }
+      ],
+      "stories": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/200/300?random=21",
+          "caption": "New Styles Coming Soon!",
+          "timestamp": "2024-10-05T10:30:00Z"
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/200/300?random=22",
+          "caption": "Braiding Tips and Tricks",
+          "timestamp": "2024-10-06T14:15:00Z"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 42,
+      "startingPrice": 75,      
+      "services": ["cornrows", "Tailwind", "Box braids", "Mish braids"],      
+      "reviews": [
+        {
+          "userName": "Jessica",
+          "reviewText": "Amanda did an amazing job on my braids! I'm so happy with the results.",
+          "rating": 5
+        },
+        {
+          "userName": "Michael",
+          "reviewText": "Great experience, very professional and skilled!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Braids by Nicole",
+      "servicename": "Amanda's Salon",
+      "location": "Los Angeles, CA",
+      "about": "Nicole is a professional braider with a passion for creating beautiful and unique styles for her clients.",
+      "email": "nicole.braids@example.com",
+      "phone_number": "+1-555-5678",
+      "role": "braider",
+      "images": [
+        "https://picsum.photos/300/200?random=4"
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/400/300?random=4",
+          "service": "Twists",
+          "serviceDescription": "Twists for a versatile and trendy look.",
+          "likes": 150
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/500/400?random=4",
+          "service": "Cornrows",
+          "serviceDescription": "Classic cornrows for a sleek and stylish appearance.",
+          "likes": 110
+        }
+      ],
+      "stories": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/200/300?random=23",
+          "caption": "Client Love!",
+          "timestamp": "2024-10-04T11:45:00Z"
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/200/300?random=24",
+          "caption": "New Twists Styles!",
+          "timestamp": "2024-10-07T16:00:00Z"
+        }
+      ],
+      "rating": 4.8,
+      "reviewCount": 58,
+      "startingPrice": 90,
+      "services": ["cornrows", "Tailwind", "Box braids", "Mish braids"],
+      "reviews": [
+        {
+          "userName": "Emily",
+          "reviewText": "Nicole's twists are absolutely stunning. I get compliments all the time!",
+          "rating": 5
+        },
+        {
+          "userName": "David",
+          "reviewText": "Great service and a lovely atmosphere. Will come back for sure!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Styles by Brittany",
+      "servicename": "Amanda's Salon",
+      "location": "Chicago, IL",
+      "about": "Brittany is a skilled braider offering modern and trendy styles at affordable prices.",
+      "email": "brittany.styles@example.com",
+      "phone_number": "+1-555-9876",
+      "role": "braider",
+      "images": [
+        "https://picsum.photos/300/200?random=6"
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/400/300?random=6",
+          "service": "Locs",
+          "serviceDescription": "Beautiful locs for a bold and stylish look.",
+          "likes": 95
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/500/400?random=6",
+          "service": "Box Braids",
+          "serviceDescription": "Neat and long-lasting box braids.",
+          "likes": 75
+        }
+      ],
+      "stories": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/200/300?random=25",
+          "caption": "Locs Transformation!",
+          "timestamp": "2024-10-02T09:30:00Z"
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/200/300?random=26",
+          "caption": "Behind the Scenes of a Braiding Session",
+          "timestamp": "2024-10-05T13:20:00Z"
+        }
+      ],
+      "rating": 4.2,
+      "reviewCount": 25,
+      "startingPrice": 65,
+      "services": ["cornrows", "Tailwind", "Box braids", "Mish braids"],
+      "reviews": [
+        {
+          "userName": "Chris",
+          "reviewText": "Brittany is a true artist! My locs have never looked better.",
+          "rating": 5
+        },
+        {
+          "userName": "Kim",
+          "reviewText": "She did a good job, but the wait time was a bit long.",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Amanda Styles",
+      "servicename": "Amanda's Salon",
+      "location": "New York, NY",
+      "about": "Amanda has been braiding for over 10 years, specializing in intricate braiding patterns and vibrant colors.",
+      "email": "amanda.styles@example.com",
+      "phone_number": "+1-555-1234",
+      "role": "braider",
+      "images": [
+        "https://picsum.photos/300/200?random=1"
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/400/300?random=1",
+          "service": "Box Braids",
+          "serviceDescription": "Classic box braids for a stylish and low-maintenance look.",
+          "likes": 128
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/500/400?random=1",
+          "service": "Cornrows",
+          "serviceDescription": "Elegant cornrows, perfect for any occasion.",
+          "likes": 85
+        },
+        {
+          "id": 3,
+          "url": "https://picsum.photos/600/500?random=1",
+          "service": "Vibrant Colors",
+          "serviceDescription": "Add some color and personality to your braids.",
+          "likes": 96
+        }
+      ],
+      "stories": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/200/300?random=21",
+          "caption": "New Styles Coming Soon!",
+          "timestamp": "2024-10-05T10:30:00Z"
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/200/300?random=22",
+          "caption": "Braiding Tips and Tricks",
+          "timestamp": "2024-10-06T14:15:00Z"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 42,
+      "startingPrice": 75,
+      "services": ["cornrows", "Tailwind", "Box braids", "Mish braids"],
+      "reviews": [
+        {
+          "userName": "Jessica",
+          "reviewText": "Amanda did an amazing job on my braids! I'm so happy with the results.",
+          "rating": 5
+        },
+        {
+          "userName": "Michael",
+          "reviewText": "Great experience, very professional and skilled!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Amanda Styles",
+      "servicename": "Amanda's Salon",
+      "location": "New York, NY",
+      "about": "Amanda has been braiding for over 10 years, specializing in intricate braiding patterns and vibrant colors.",
+      "email": "amanda.styles@example.com",
+      "phone_number": "+1-555-1234",
+      "role": "braider",
+      "images": [
+        "https://picsum.photos/300/200?random=1"
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/400/300?random=1",
+          "service": "Box Braids",
+          "serviceDescription": "Classic box braids for a stylish and low-maintenance look.",
+          "likes": 128
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/500/400?random=1",
+          "service": "Cornrows",
+          "serviceDescription": "Elegant cornrows, perfect for any occasion.",
+          "likes": 85
+        },
+        {
+          "id": 3,
+          "url": "https://picsum.photos/600/500?random=1",
+          "service": "Vibrant Colors",
+          "serviceDescription": "Add some color and personality to your braids.",
+          "likes": 96
+        }
+      ],
+      "stories": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/200/300?random=21",
+          "caption": "New Styles Coming Soon!",
+          "timestamp": "2024-10-05T10:30:00Z"
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/200/300?random=22",
+          "caption": "Braiding Tips and Tricks",
+          "timestamp": "2024-10-06T14:15:00Z"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 42,
+      "startingPrice": 75,
+      "services": ["cornrows", "Tailwind", "Box braids", "Mish braids"],
+      "reviews": [
+        {
+          "userName": "Jessica",
+          "reviewText": "Amanda did an amazing job on my braids! I'm so happy with the results.",
+          "rating": 5
+        },
+        {
+          "userName": "Michael",
+          "reviewText": "Great experience, very professional and skilled!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Amanda Styles",
+      "servicename": "Amanda's Salon",
+      "location": "New York, NY",
+      "about": "Amanda has been braiding for over 10 years, specializing in intricate braiding patterns and vibrant colors.",
+      "email": "amanda.styles@example.com",
+      "phone_number": "+1-555-1234",
+      "role": "braider",
+      "images": [
+        "https://picsum.photos/300/200?random=1"
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/400/300?random=1",
+          "service": "Box Braids",
+          "serviceDescription": "Classic box braids for a stylish and low-maintenance look.",
+          "likes": 128
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/500/400?random=1",
+          "service": "Cornrows",
+          "serviceDescription": "Elegant cornrows, perfect for any occasion.",
+          "likes": 85
+        },
+        {
+          "id": 3,
+          "url": "https://picsum.photos/600/500?random=1",
+          "service": "Vibrant Colors",
+          "serviceDescription": "Add some color and personality to your braids.",
+          "likes": 96
+        }
+      ],
+      "stories": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/200/300?random=21",
+          "caption": "New Styles Coming Soon!",
+          "timestamp": "2024-10-05T10:30:00Z"
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/200/300?random=22",
+          "caption": "Braiding Tips and Tricks",
+          "timestamp": "2024-10-06T14:15:00Z"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 42,
+      "startingPrice": 75,
+      "services": ["cornrows", "Tailwind", "Box braids", "Mish braids"],
+      "reviews": [
+        {
+          "userName": "Jessica",
+          "reviewText": "Amanda did an amazing job on my braids! I'm so happy with the results.",
+          "rating": 5
+        },
+        {
+          "userName": "Michael",
+          "reviewText": "Great experience, very professional and skilled!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Amanda Styles",
+      "servicename": "Amanda's Salon",
+      "location": "New York, NY",
+      "about": "Amanda has been braiding for over 10 years, specializing in intricate braiding patterns and vibrant colors.",
+      "email": "amanda.styles@example.com",
+      "phone_number": "+1-555-1234",
+      "role": "braider",
+      "images": [
+        "https://picsum.photos/300/200?random=1"
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/400/300?random=1",
+          "service": "Box Braids",
+          "serviceDescription": "Classic box braids for a stylish and low-maintenance look.",
+          "likes": 128
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/500/400?random=1",
+          "service": "Cornrows",
+          "serviceDescription": "Elegant cornrows, perfect for any occasion.",
+          "likes": 85
+        },
+        {
+          "id": 3,
+          "url": "https://picsum.photos/600/500?random=1",
+          "service": "Vibrant Colors",
+          "serviceDescription": "Add some color and personality to your braids.",
+          "likes": 96
+        }
+      ],
+      "stories": [
+        {
+          "id": 1,
+          "url": "https://picsum.photos/200/300?random=21",
+          "caption": "New Styles Coming Soon!",
+          "timestamp": "2024-10-05T10:30:00Z"
+        },
+        {
+          "id": 2,
+          "url": "https://picsum.photos/200/300?random=22",
+          "caption": "Braiding Tips and Tricks",
+          "timestamp": "2024-10-06T14:15:00Z"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 42,
+      "startingPrice": 75,
+      "services": ["cornrows", "Tailwind", "Box braids", "Mish braids"],
+      "reviews": [
+        {
+          "userName": "Jessica",
+          "reviewText": "Amanda did an amazing job on my braids! I'm so happy with the results.",
+          "rating": 5
+        },
+        {
+          "userName": "Michael",
+          "reviewText": "Great experience, very professional and skilled!",
+          "rating": 4
+        }
+      ]
+    }
+  ]
+}
